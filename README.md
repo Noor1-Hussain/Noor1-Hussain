@@ -1,6 +1,6 @@
 <!-- Hero Header -->
 <div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width:" 100%; alt="I am Noor Welcome to my Github Profile" />
   <br /><br />
   <img height="50" alt="Noor's Personal Note" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Cybersecurity+Student;Network+Security+Intern+@DEPI;Always+Learning+%26+Breaking+Stuff" />
   <br /><br />
