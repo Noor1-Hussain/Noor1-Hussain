@@ -34,10 +34,10 @@
 It includes:
 
 - 🎙️ **Video Explanation** A full walk-through of the network design, addressing, and setup.  
-  [▶️ Watch Explanation](https://drive.google.com/file/d/1eUAvReVmA5yibFPZxUkm4J1iQm-iCPa6/view?usp=drive_link)
+  [▶️ Watch Explanation](https://drive.google.com/file/d/1ZQh7pgeweEz21knbJqNc46Fv6-0Hlw-w/view?usp=drive_link)
 
 - 🛠️ **Implementation Video** Step-by-step practical implementation inside Cisco Packet Tracer.  
-  [▶️ Watch Implementation](https://drive.google.com/file/d/1W8Jm5riRBPdU8sT3d8R_fIg5b47bEzzh/view?usp=drive_link)
+  [▶️ Watch Implementation](https://drive.google.com/file/d/11VdoVA5prUZ4vSdqLKtR-AGIsxXpD2cH/view?usp=drive_link)
 
 > ⚠️ **Important Note**: Please use **headphones** 🎧 for clear audio — the sound was recorded directly from the laptop mic and may not be audible through speakers.
 
