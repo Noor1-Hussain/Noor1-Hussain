@@ -1,4 +1,3 @@
-<!-- Hero Header -->
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width:" 100%; alt="I am Noor Welcome to my Github Profile" />
   <br /><br />
@@ -11,10 +10,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 **Cybersecurity Student** at Faculty of Computers & Information  
-- 💼 **Network Security Intern – Fortinet Track @ DEPI**  
-- 💬 PR Member at **ICPC Tanta Community**  
-- 🔍 Passionate about **Pen testing**, **Network Defense**, and **Cryptography**  
-- 🤝 Skilled in blending **technical expertise** with **strong communication**
+- 💼 **Network Security Intern – Fortinet Track @ DEPI** - 💬 PR Member at **ICPC Tanta Community** - 🔍 Passionate about **Pen testing**, **Network Defense**, and **Cryptography** - 🤝 Skilled in blending **technical expertise** with **strong communication**
 
 ---
 
@@ -37,12 +33,10 @@
 
 It includes:
 
-- 🎙️ **Video Explanation**  
-  A full walk-through of the network design, addressing, and setup.  
+- 🎙️ **Video Explanation** A full walk-through of the network design, addressing, and setup.  
   [▶️ Watch Explanation](https://drive.google.com/file/d/1eUAvReVmA5yibFPZxUkm4J1iQm-iCPa6/view?usp=drive_link)
 
-- 🛠️ **Implementation Video**  
-  Step-by-step practical implementation inside Cisco Packet Tracer.  
+- 🛠️ **Implementation Video** Step-by-step practical implementation inside Cisco Packet Tracer.  
   [▶️ Watch Implementation](https://drive.google.com/file/d/1W8Jm5riRBPdU8sT3d8R_fIg5b47bEzzh/view?usp=drive_link)
 
 > ⚠️ **Important Note**: Please use **headphones** 🎧 for clear audio — the sound was recorded directly from the laptop mic and may not be audible through speakers.
@@ -51,9 +45,7 @@ It includes:
 
 ## 🧾 Certifications
 
-- 🛡️ **TryHackMe – Offensive Security**  
-- ☁️ **Cisco CCNP Cloud**  
-- 🔐 **Cybersecurity Essentials & Awareness** – Cisco / HP / MindLuster  
+- 🛡️ **TryHackMe – Offensive Security** - ☁️ **Cisco CCNP Cloud** - 🔐 **Cybersecurity Essentials & Awareness** – Cisco / HP / MindLuster  
 - 🌍 **Web Development with PHP** – ITI  
 - 🤖 **Robotics & Microcontrollers** – ST Smart Technology  
 - 📊 **AI Career Essentials** – ALX  
@@ -77,19 +69,13 @@ It includes:
 <img alt="LinkedIn" height="80" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif">
 </a>
 </td>
-<td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM">
-<strong>Study + Music Vibes</strong><br /><br />
-<img height="100" alt="Music" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/music.gif"> 
-</a>
-</td>
 </tr>
 </table>
 
 ---
 
 <div align="center">
-<a href="#"><img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/guestbook.svg"></a> 
+<a href="#"><img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/guestbook.svg"></a>  
 </div>
 
 | Name | Date | Message |
@@ -102,8 +88,8 @@ It includes:
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<span>      </span>    
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<span>      </span>    
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
