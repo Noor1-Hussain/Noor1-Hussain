@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width:" 100%; alt="I am Noor Welcome to my Github Profile" />
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" alt="I am Noor Welcome to my Github Profile" style="max-width:100%;" />
   <br /><br />
-  <img height="50" alt="Noor's Personal Note" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Cybersecurity+Student;Network+Security+Intern+@DEPI;Always+Learning+%26+Breaking+Stuff" />
+  <img height="50" alt="Noor's Personal Note" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&lines=Cybersecurity+Student;Network+Security+Intern+@DEPI;Always+Learning+%26+Breaking+Stuff" />
   <br /><br />
 </div>
 
@@ -10,7 +10,10 @@
 ## 👩‍💻 About Me
 
 - 🎓 **Cybersecurity Student** at Faculty of Computers & Information  
-- 💼 **Network Security Intern – Fortinet Track @ DEPI** - 💬 PR Member at **ICPC Tanta Community** - 🔍 Passionate about **Pen testing**, **Network Defense**, and **Cryptography** - 🤝 Skilled in blending **technical expertise** with **strong communication**
+- 💼 **Network Security Intern – Fortinet Track @ DEPI**
+- 💬 PR Member at **ICPC Tanta Community**
+- 🔍 Passionate about **Pen testing**, **Network Defense**, and **Cryptography**
+- 🤝 Skilled in blending **technical expertise** with **strong communication**
 
 ---
 
@@ -33,10 +36,10 @@
 
 It includes:
 
-- 🎙️ **Video Explanation** A full walk-through of the network design, addressing, and setup.  
+- 🎙️ **Video Explanation**  
   [▶️ Watch Explanation](https://drive.google.com/file/d/1ZQh7pgeweEz21knbJqNc46Fv6-0Hlw-w/view?usp=drive_link)
 
-- 🛠️ **Implementation Video** Step-by-step practical implementation inside Cisco Packet Tracer.  
+- 🛠️ **Implementation Video**  
   [▶️ Watch Implementation](https://drive.google.com/file/d/11VdoVA5prUZ4vSdqLKtR-AGIsxXpD2cH/view?usp=drive_link)
 
 > ⚠️ **Important Note**: Please use **headphones** 🎧 for clear audio — the sound was recorded directly from the laptop mic and may not be audible through speakers.
@@ -45,7 +48,9 @@ It includes:
 
 ## 🧾 Certifications
 
-- 🛡️ **TryHackMe – Offensive Security** - ☁️ **Cisco CCNP Cloud** - 🔐 **Cybersecurity Essentials & Awareness** – Cisco / HP / MindLuster  
+- 🛡️ **TryHackMe – Offensive Security**
+- ☁️ **Cisco CCNP Cloud**
+- 🔐 **Cybersecurity Essentials & Awareness** – Cisco / HP / MindLuster  
 - 🌍 **Web Development with PHP** – ITI  
 - 🤖 **Robotics & Microcontrollers** – ST Smart Technology  
 - 📊 **AI Career Essentials** – ALX  
