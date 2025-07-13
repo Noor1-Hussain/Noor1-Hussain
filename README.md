@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" alt="I am Noor Welcome to my Github Profile" style="max-width:100%;" />
   <br /><br />
-  <img height="50" alt="Noor's Personal Note" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&lines=Network+,Network Security Engineer;Always+Learning+%26+Breaking+Stuff" />
+  <img height="50" alt="Noor's Personal Note" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&lines=Cybersecurity+Student;Network+Security+Intern+@DEPI;Always+Learning+%26+Breaking+Stuff" />
   <br /><br />
 </div>
 
