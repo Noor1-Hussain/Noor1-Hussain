@@ -16,30 +16,9 @@
 
 ---
 
-## 🛠️ Skills
-
-- 🔐 **Cybersecurity**: Penetration Testing, Fortinet, Threat Detection, TryHackMe Labs  
-- 🌐 **Networking**: CCNA, Packet Tracer, VLANs, Subnetting, Routing  
-- 💻 **Programming**: Python, C++, OOP, Data Structures  
-- 🌍 **Web Development**: PHP, JavaScript, HTML, MySQL  
-- 🤖 **Tech Tools**: Wireshark, Burp Suite, Nmap, Linux CLI, Arduino, RPA  
-- 🎨 **Others**: Canva, Infogram, AI Tools, Microsoft Office  
-
----
-
 ## 📂 Projects
 
-### 📡 Cisco Packet Tracer Lab – Basic Network Simulation
-
-🧪 This project showcases a basic LAN network simulation designed and configured using **Cisco Packet Tracer**.
-
-It includes:
-
-- 🎙️ **Video Explanation**  
-  [▶️ Watch Explanation](https://drive.google.com/file/d/1ZQh7pgeweEz21knbJqNc46Fv6-0Hlw-w/view?usp=drive_link)
-
-- 🛠️ **Implementation Video**  
-  [▶️ Watch Implementation](https://drive.google.com/file/d/11VdoVA5prUZ4vSdqLKtR-AGIsxXpD2cH/view?usp=drive_link)
+[🔗 **View All My Projects Here**](https://drive.google.com/drive/folders/1dYSZHZAA3i3Wv6FNZlZVjLcK7ck8Pkoe?usp=drive_link)
 
 > ⚠️ **Important Note**: Please use **headphones** 🎧 for clear audio — the sound was recorded directly from the laptop mic and may not be audible through speakers.
 
