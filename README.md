@@ -14,13 +14,6 @@
 - 🔍 Passionate about **Pen testing**, **Network Defense**, and **Cryptography**
 - 🤝 Skilled in blending **technical expertise** with **strong communication**
 
----
-
-## 📂 Projects
-
-[🔗 **View All My Projects Here**](https://drive.google.com/drive/folders/1dYSZHZAA3i3Wv6FNZlZVjLcK7ck8Pkoe?usp=drive_link)
-
-> ⚠️ **Important Note**: Please use **headphones** 🎧 for clear audio — the sound was recorded directly from the laptop mic and may not be audible through speakers.
 
 ---
 
